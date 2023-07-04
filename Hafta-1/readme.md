@@ -9,4 +9,4 @@
 7. Ödev - Mükemmel Sayı Bulan Program
 8. Ödev - Ters Üçgen Yapımı
 9. Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program
-10. Ödev - Fibonacci Serisi       
+10. Ödev - Fibonacci Serisi        
