@@ -27,5 +27,6 @@ public class Main {
         Arrays.sort(list);
         // Sıraladığımız diziyi ekrana bastırıyoruz.
         System.out.println("Siralama : " + Arrays.toString(list));
+
     }
 }
