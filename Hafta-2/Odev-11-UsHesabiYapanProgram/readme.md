@@ -12,3 +12,4 @@
     Taban değeri giriniz : 5
     Üs değerini giriniz : 3
     Sonuç : 125
+

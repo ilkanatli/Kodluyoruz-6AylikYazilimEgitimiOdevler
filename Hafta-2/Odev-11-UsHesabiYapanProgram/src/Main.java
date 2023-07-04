@@ -21,5 +21,6 @@ public class Main {
         // pow(2,2) => 2 * pow(2,1) -> 4
         // pow(2,1) => 2 * pow(2,0) -> 2
         // pow(2,0) => 1
+
     }
 }
