@@ -31,6 +31,7 @@ public class Employee {
             return this.salary * 0.10;
         } else {
             return salary * 0.15;
+
         }
     }
 
