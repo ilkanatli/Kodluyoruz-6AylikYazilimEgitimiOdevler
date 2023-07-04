@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hafta-4/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/Hafta-4/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/ElevatorSimulation/ElevatorSimulation.iml" filepath="$PROJECT_DIR$/Hafta-3/ElevatorSimulation/ElevatorSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/FlightManagementSystem/FlightManagementSystem.iml" filepath="$PROJECT_DIR$/Hafta-3/FlightManagementSystem/FlightManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Hafta-1.iml" filepath="$PROJECT_DIR$/Hafta-1/Hafta-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Hafta-2.iml" filepath="$PROJECT_DIR$/Hafta-2/Hafta-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/Hafta-3.iml" filepath="$PROJECT_DIR$/Hafta-3/Hafta-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-4/Hafta-4.iml" filepath="$PROJECT_DIR$/Hafta-4/Hafta-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kodluyoruz-6AylikYazilimEgitimiOdevler.iml" filepath="$PROJECT_DIR$/Kodluyoruz-6AylikYazilimEgitimiOdevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-1-VucutKitleIndeksiHesaplayanProgram/Odev-1-VucutKitleIndeksiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-1-VucutKitleIndeksiHesaplayanProgram/Odev-1-VucutKitleIndeksiHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-10-FibonacciSerisi/Odev-10-FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-10-FibonacciSerisi/Odev-10-FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-11-UsHesabiYapanProgram/Odev-11-UsHesabiYapanProgram.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-11-UsHesabiYapanProgram/Odev-11-UsHesabiYapanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-12-AsalSayiBulanProgram/Odev-12-AsalSayiBulanProgram.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-12-AsalSayiBulanProgram/Odev-12-AsalSayiBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-13-DeseneGoreMetotOlusturma/Odev-13-DeseneGoreMetotOlusturma.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-13-DeseneGoreMetotOlusturma/Odev-13-DeseneGoreMetotOlusturma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-14-MaasHesaplayici/Odev-14-MaasHesaplayici.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-14-MaasHesaplayici/Odev-14-MaasHesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-15-DizidekiElemanlariSiralama/Odev-15-DizidekiElemanlariSiralama.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-15-DizidekiElemanlariSiralama/Odev-15-DizidekiElemanlariSiralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-16-DizidekiElemanlarinFrekansi/Odev-16-DizidekiElemanlarinFrekansi.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-16-DizidekiElemanlarinFrekansi/Odev-16-DizidekiElemanlarinFrekansi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-2/Odev-17-MatrisTranspozunuBulma/Odev-17-MatrisTranspozunuBulma.iml" filepath="$PROJECT_DIR$/Hafta-2/Odev-17-MatrisTranspozunuBulma/Odev-17-MatrisTranspozunuBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-2-ManavKasaProgrami/Odev-2-ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-2-ManavKasaProgrami/Odev-2-ManavKasaProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-3-UcakBiletiFiyatiHesaplama/Odev-3-UcakBiletiFiyatiHesaplama.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-3-UcakBiletiFiyatiHesaplama/Odev-3-UcakBiletiFiyatiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-4-CinZodyagiHesaplama/Odev-4-CinZodyagiHesaplama.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-4-CinZodyagiHesaplama/Odev-4-CinZodyagiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-5-ArtikYilHesaplama/Odev-5-ArtikYilHesaplama.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-5-ArtikYilHesaplama/Odev-5-ArtikYilHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-6-GirilenSayilardanMinveMaxDegerleriBulma/Odev-6-GirilenSayilardanMinveMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-6-GirilenSayilardanMinveMaxDegerleriBulma/Odev-6-GirilenSayilardanMinveMaxDegerleriBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-7-MukemmelSayiBulanProgram/Odev-7-MukemmelSayiBulanProgram.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-7-MukemmelSayiBulanProgram/Odev-7-MukemmelSayiBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-8-TersUcgenYapimi/Odev-8-TersUcgenYapimi.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-8-TersUcgenYapimi/Odev-8-TersUcgenYapimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-1/Odev-9-BirileYuzArasindakiAsalSayilariBulanProgram/Odev-9-BirileYuzArasindakiAsalSayilariBulanProgram.iml" filepath="$PROJECT_DIR$/Hafta-1/Odev-9-BirileYuzArasindakiAsalSayilariBulanProgram/Odev-9-BirileYuzArasindakiAsalSayilariBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/OnlineMovieSystem/OnlineMovieSystem.iml" filepath="$PROJECT_DIR$/Hafta-3/OnlineMovieSystem/OnlineMovieSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/UniversiteYonetimSistemi/UniversiteYonetimSistemi.iml" filepath="$PROJECT_DIR$/Hafta-3/UniversiteYonetimSistemi/UniversiteYonetimSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-3/ZooManagement/ZooManagement.iml" filepath="$PROJECT_DIR$/Hafta-3/ZooManagement/ZooManagement.iml" />
+    </modules>
+  </component>
+</project>
