@@ -6,4 +6,4 @@
 14. Maaş Hesaplayıcı
 15. Dizideki Elemanları Sıralama
 16. Dizideki Elemanların Frekansı
-17. Matris Transpozunu Bulma
+17. Matris Transpozunu Bulma 
