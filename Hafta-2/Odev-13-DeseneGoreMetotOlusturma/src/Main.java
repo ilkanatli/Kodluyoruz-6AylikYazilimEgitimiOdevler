@@ -24,6 +24,7 @@ public class Main {
 
         pattern(N);
 
+
             /*
             pattern(16)
             16 pattern(11) 16
