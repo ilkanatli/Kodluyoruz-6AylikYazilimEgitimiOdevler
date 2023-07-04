@@ -33,6 +33,7 @@ public class Main {
             System.out.println(number + " sayisi ASALDIR !");
         } else {
             System.out.println(number + " ASAL degildir !");
+
         }
     }
 }
