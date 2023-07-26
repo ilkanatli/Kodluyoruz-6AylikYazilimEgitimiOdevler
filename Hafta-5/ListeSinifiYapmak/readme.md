@@ -32,17 +32,37 @@
 
 **Örnek**
 
-``public class Ata { public static void main(String[] args) { MyList<Integer> liste = new MyList<>(); System.out.println("Dizideki Eleman Sayısı : " + liste.size()); System.out.println("Dizinin Kapasitesi : " + liste.getCapacity()); liste.add(10); liste.add(20); liste.add(30); liste.add(40); System.out.println("Dizideki Eleman Sayısı : " + liste.size()); System.out.println("Dizinin Kapasitesi : " + liste.getCapacity()); liste.add(50); liste.add(60); liste.add(70); liste.add(80); liste.add(90); liste.add(100); liste.add(110); System.out.println("Dizideki Eleman Sayısı : " + liste.size()); System.out.println("Dizinin Kapasitesi : " + liste.getCapacity());     }
+````
+public class Ata {
+    public static void main(String[] args) { 
+        MyList<Integer> liste = new MyList<>(); 
+        System.out.println("Dizideki Eleman Sayısı : " + liste.size()); 
+        System.out.println("Dizinin Kapasitesi : " + liste.getCapacity()); 
+        liste.add(10); 
+        liste.add(20); 
+        liste.add(30); 
+        liste.add(40); 
+        System.out.println("Dizideki Eleman Sayısı : " + liste.size()); 
+        System.out.println("Dizinin Kapasitesi : " + liste.getCapacity()); 
+        liste.add(50); liste.add(60); liste.add(70); 
+        liste.add(80); liste.add(90); 
+        liste.add(100); liste.add(110); 
+        System.out.println("Dizideki Eleman Sayısı : " + 
+        liste.size()); 
+        System.out.println("Dizinin Kapasitesi : " + liste.getCapacity());    
+    }
 }
-``
+````
 
 **Çıktısı**
 
-``Dizinin Kapasitesi : 10 Dizideki Eleman Sayısı : 0
+````
+Dizinin Kapasitesi : 10 Dizideki Eleman Sayısı : 0
 Dizinin Kapasitesi : 10
 Dizideki Eleman Sayısı : 4
 Dizinin Kapasitesi : 20
-Dizideki Eleman Sayısı : 11``
+Dizideki Eleman Sayısı : 11
+````
 
 - get(int index): verilen indisteki değeri döndürür. Geçersiz indis girilerse null döndürür.
 
@@ -57,14 +77,30 @@ Dizideki Eleman Sayısı : 11``
 
 **Örnek**
 
-``public class Ata { public static void main(String[] args) { MyList<Integer> liste = new MyList<>(); liste.add(10); liste.add(20); liste.add(30); System.out.println("2. indisteki değer : " + liste.get(2)); liste.remove(2); liste.add(40); liste.set(0, 100); System.out.println("2. indisteki değer : " + liste.get(2));         System.out.println(liste.toString());
+````
+public class Ata { 
+    public static void main(String[] args) {
+        MyList<Integer> liste = new MyList<>();
+        liste.add(10); 
+        liste.add(20); 
+        liste.add(30); 
+        System.out.println("2. indisteki değer : " + liste.get(2)); 
+        liste.remove(2); 
+        liste.add(40); 
+        liste.set(0, 100); 
+        System.out.println("2. indisteki değer : " + liste.get(2));         
+        System.out.println(liste.toString());
+    }
 }
-}``
+````
 
 **Çıktısı**
 
-``2. indisteki değer : 30 2. indisteki değer : 40
-[100,20,40]``
+````
+2. indisteki değer : 30 
+2. indisteki değer : 40
+[100,20,40]
+````
 
 - int indexOf(T data) : Parametrede verilen nesnenin listedeki indeksini verir. Nesne listede yoksa -1 değerini verir.
 
