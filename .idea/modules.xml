@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hafta-4/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/Hafta-4/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta-6/BookList/BookList.iml" filepath="$PROJECT_DIR$/Hafta-6/BookList/BookList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta-3/ElevatorSimulation/ElevatorSimulation.iml" filepath="$PROJECT_DIR$/Hafta-3/ElevatorSimulation/ElevatorSimulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta-5/FiksturOlusturucu/FiksturOlusturucu.iml" filepath="$PROJECT_DIR$/Hafta-5/FiksturOlusturucu/FiksturOlusturucu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta-3/FlightManagementSystem/FlightManagementSystem.iml" filepath="$PROJECT_DIR$/Hafta-3/FlightManagementSystem/FlightManagementSystem.iml" />
